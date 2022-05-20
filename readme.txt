@@ -81,3 +81,9 @@ commit :
 
 git commit -m 'calendar' styles.css 
 git commit -m 'any message here' .
+
+git log : to get commiy logs
+
+branches :
+
+git branch
